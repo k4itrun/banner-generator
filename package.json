@@ -1,7 +1,7 @@
 {
   "name": "banner",
   "version": "1.0.0",
-  "description": "",
+  "description": "generate a text type banner, use it for your projects and make a good impression",
   "main": "index.js",
   "scripts": {
     "test": "node index"
